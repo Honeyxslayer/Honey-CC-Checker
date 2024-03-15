@@ -15,25 +15,7 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-CoderXKrishna/Braintree-CC-Checker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/The-CoderXKrishna/Braintree-CC-Checker?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/CoderXKrish/Braintree-CC-Checker?style=social)
-
-![Repo Size](https://img.shields.io/github/repo-size/CoderXkrishna/Braintree-CC-Checker?&style=social&logo=github)
-![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
-
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/CoderXkrishna/Braintree-CC-Checker?&style=social&logo=github)
-
-![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/CoderXkrishna/Braintree-CC-Checker?&style=social&logo=hyper)
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/Krishna_Userbot_Chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/Krish_Userbot_Support)
-
-[![Documentation](https://img.shields.io/badge/Documentations-docs.Krishbot.tech-white?&style=social&logo=gitbook)](https://Krishbot.tech)
-
-------
+![GitHub forks]
 ## Deploy 🚀
 - [![Heroku](https://img.shields.io/badge/Krishbot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
