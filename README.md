@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/STD-DEEPANSHU/Braintree-CC-Checker"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Honeyxslayer/Honey-CC-Checker"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
 <p align="center">
   <img src="https://graph.org/file/b39e6c924037d1772e95f.jpg" alt="Krishna-CC-Checker">
